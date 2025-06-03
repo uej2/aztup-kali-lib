@@ -238,7 +238,7 @@ local function initLibrary()
         });
 
         local modal = Instance.new("TextButton", main);
-        modal.Modal = true;
+        modal.Modal = false;
         modal.BackgroundTransparency = 1;
         modal.Text = "";
 
