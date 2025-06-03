@@ -1071,5 +1071,3 @@ local function initLibrary()
 end;
 
 return initLibrary();
-
--- update nigga
