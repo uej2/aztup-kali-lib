@@ -157,7 +157,7 @@ local function initLibrary()
                 BorderColor3 = ui_Settings.borderColor;
                 BorderSizePixel = 1;
                 Position = UDim2.new(0, 5, 0, 78);
-                Size = UDim2.new(0, 520, 0, 316);
+                Size = UDim2.new(0, 390, 0, 186);
                 library:Create("Frame", {
                     Name = "shadow";
                     BackgroundColor3 = Color3.fromRGB(255, 255, 255);
